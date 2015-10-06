@@ -1,0 +1,16 @@
+{
+  "name": "postcss-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "postcss": "^5.0.8",
+    "postcss-canadian-stylesheets": "0.0.1"
+  }
+}
